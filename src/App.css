@@ -1,12 +1,13 @@
 body{
     background-color: #171b1f;
-    font-family: "Caveat", serif;
+    font-family: "Poiret One", serif;
 }
 
 .main-nav{
     display: flex;
     justify-content: space-between;
     width: 800px;
+    justify-content: space-around;
 }
 
 header{
@@ -22,5 +23,6 @@ header{
 .main-nav>a{
     color: rgb(111 117 127);
     text-decoration: none;
-
+    font-size: larger;
+    font-weight: bolder;
 }
