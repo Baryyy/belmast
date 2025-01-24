@@ -11,10 +11,10 @@ const Header = () => {
                 <h1>белмаст</h1>
             </div>
             <nav className="main-nav">
-                <a href="#">живопись</a>
-                <a href="#">архитектура</a>
-                <a href="#">литература</a>
-                <a href="#">скульптура</a>
+                <a onClick={() => {}}>живопись</a>
+                <a onClick={() => {}}>архитектура</a>
+                <a onClick={() => {}}>литература</a>
+                <a onClick={() => {}}>скульптура</a>
             </nav>
         </header>    
     )
