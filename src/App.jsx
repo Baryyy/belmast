@@ -42,7 +42,7 @@ const App = () => {
                 </ion-icon>
             </section>
             <div className='content'>
-
+                
             </div>
             
         </div>
